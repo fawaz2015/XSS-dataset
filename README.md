@@ -1,4 +1,4 @@
-# dataset
+# XSS dataset
 Cross-site-scripting attacks: A Comprehensive dataset for AI techniques usage
 ![image](https://user-images.githubusercontent.com/13182456/163021488-345e295d-2e22-4331-bcc1-369f209f318f.png)
 
